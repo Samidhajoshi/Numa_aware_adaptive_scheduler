@@ -1,0 +1,9 @@
+*.exe
+*.db
+*.cpp
+*.h
+*.o
+*.ps1
+*.sh
+*.txt
+build/
