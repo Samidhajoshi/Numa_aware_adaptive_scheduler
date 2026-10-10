@@ -277,6 +277,12 @@ Accesses: 22651 total
 6959 remote
 Cost: 35905
 ```
+## Screenshots 
+<img width="1917" height="1033" alt="image" src="https://github.com/user-attachments/assets/0e9453c3-9d4b-466f-92bd-b0d8b44a6aec" />
+<img width="1841" height="1016" alt="image" src="https://github.com/user-attachments/assets/f6b4b580-ceb5-47b0-9aee-4e8b88515dff" />
+<img width="1917" height="1045" alt="image" src="https://github.com/user-attachments/assets/3ba42845-d8ad-4d42-bbfc-bbcb93785656" />
+<img width="1085" height="815" alt="image" src="https://github.com/user-attachments/assets/cc77592e-43ed-4bad-97b1-f6d474a63cf4" />
+<img width="1917" height="991" alt="image" src="https://github.com/user-attachments/assets/60b84e08-5c40-4dd7-8232-bef358589abb" />
 
 ## Important Note
 
