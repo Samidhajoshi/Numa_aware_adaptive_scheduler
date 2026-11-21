@@ -84,10 +84,10 @@ Placement runAlgorithm(Algo algo, const Workload& workload, const NUMATopology& 
     Placement placement;
     placement.nodes = initialNodeState(topo, workload);
     placement.threadsPerNode.assign(topo.size(), 0);
-    Rng rng(workload.seed + 1000);  // only used by Random; fixed so runs are reproducible
+    Rng rng(workload.seed + 1000);  
 
     for (const auto& thread : workload.threads) {
-        // Only nodes with room for the thread's private memory are candidates.
+        
         vector<int> candidateNodes;
         for (const auto& node : placement.nodes) {
             if (node.hasRoom(thread.footprintMB)) candidateNodes.push_back(node.id);
