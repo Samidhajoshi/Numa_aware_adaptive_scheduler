@@ -186,7 +186,9 @@ body {
 .grid-3 { display: grid; grid-template-columns: repeat(3,1fr); gap: 20px; }
 .grid-2 { display: grid; grid-template-columns: repeat(2,1fr); gap: 20px; }
 .grid-4 { display: grid; grid-template-columns: repeat(4,1fr); gap: 16px; }
-.grid-auto { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
+.grid-auto { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; }
+/* ─── Extended node/topology colors for 8 nodes ─────────────────────────────── */
+.dist-medium { background: rgba(255,142,83,0.08); }
 
 /* ─── Section title ──────────────────────────────────────────────────── */
 .section-title {
